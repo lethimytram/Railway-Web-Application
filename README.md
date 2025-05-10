@@ -1,6 +1,6 @@
 # Railway System Project
 ## Giới thiệu
-Dự án này là một hệ thống quản lý đường sắt được xây dựng bằng Java. Nó bao gồm các trang web để người dùng có thể đăng ký, đăng nhập, đặt vé, xem thông tin vé, và nhiều chức năng khác liên quan đến hệ thống đường sắt.
+Dự án này kiểm thử một số chức năng trong hệ thống quản lý đường sắt bằng Java Selenium. các chức năng bao gồm: đăng ký, đăng nhập, đặt vé, xem thông tin vé, và nhiều chức năng khác liên quan đến hệ thống đường sắt.
 
 ## Cấu trúc thư mục
 Dự án được tổ chức thành hai thư mục chính:
