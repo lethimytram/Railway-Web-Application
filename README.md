@@ -1,7 +1,9 @@
 # Testing of a Railway Web Application
 ## Giới thiệu
 Dự án này kiểm thử một số chức năng trong hệ thống quản lý đường sắt bằng Java Selenium. các chức năng bao gồm: đăng ký, đăng nhập, đặt vé, xem thông tin vé, và nhiều chức năng khác liên quan đến hệ thống đường sắt.
-
+## Mục đích của Dự án
+- Ôn lại kiến thức về kiểm thử tự động
+- Bài tập lớn môn kiểm thử phần mềm.
 ## Cấu trúc thư mục
 Dự án được tổ chức thành hai thư mục chính:
 
