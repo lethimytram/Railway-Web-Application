@@ -1,4 +1,4 @@
-# Railway System Project
+# Testing of a Railway Web Application
 ## Giới thiệu
 Dự án này kiểm thử một số chức năng trong hệ thống quản lý đường sắt bằng Java Selenium. các chức năng bao gồm: đăng ký, đăng nhập, đặt vé, xem thông tin vé, và nhiều chức năng khác liên quan đến hệ thống đường sắt.
 
